@@ -30,7 +30,7 @@ extern const ucg_fntpgm_uint8_t ucg_font_crox5tb[] UCG_FONT_SECTION("ucg_font_cr
 
 extern const ucg_fntpgm_uint8_t ucg_font_5x7_gr[] UCG_FONT_SECTION("ucg_font_5x7_gr");
 extern const ucg_fntpgm_uint8_t ucg_font_6x13_gr[] UCG_FONT_SECTION("ucg_font_6x13_gr");
-extern const ucg_fntpgm_uint8_t ucg_font_6x15_gr[] UCG_FONT_SECTION("ucg_font_6x15_gr");
+//extern const ucg_fntpgm_uint8_t ucg_font_6x15_gr[] UCG_FONT_SECTION("ucg_font_6x15_gr");
 extern const ucg_fntpgm_uint8_t ucg_font_9x16_gr[] UCG_FONT_SECTION("ucg_font_9x16_gr");
 extern const ucg_fntpgm_uint8_t ucg_font_helvR12_gr[] UCG_FONT_SECTION("ucg_font_helvR12_gr");
 extern const ucg_fntpgm_uint8_t ucg_font_helvR14_gr[] UCG_FONT_SECTION("ucg_font_helvR14_gr");
